@@ -1,6 +1,6 @@
 # Backprop explainer
 
-A Streamlit walkthrough of the backpropagation algorithm, in the same lesson order as Google’s ML Crash Course [backprop scroll page](https://developers.google.com/machine-learning/crash-course/backprop-scroll).
+A Streamlit walkthrough of the backpropagation algorithm
 
 Streamlit cannot pin a canvas to page scroll, so this app uses a **step slider** instead of scrolling. The left column is the lesson. The right column is the same small network, updated at each step.
 

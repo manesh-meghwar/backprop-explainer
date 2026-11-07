@@ -15,7 +15,6 @@ Streamlit cannot pin a canvas to page scroll, so this app uses a **step slider**
 ## Run
 
 ```bash
-cd D:\ML\backprop-explainer
 conda activate summary
 pip install -r requirements.txt
 streamlit run streamlit_app.py
